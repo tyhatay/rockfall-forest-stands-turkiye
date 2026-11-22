@@ -7,8 +7,9 @@ abstract: >-
 authors:
   - family-names: "Hatay"
     given-names: "Taha Yasin"
+    orcid: "https://orcid.org/0000-0003-3946-8076"
     email: "tyhatay@ktu.edu.tr"
-    affiliation: "Karadeniz Technical University, Trabzon, Turkiye"
+    affiliation: "Department of Forest Engineering, Faculty of Forestry, Karadeniz Technical University, Trabzon, Turkiye"
 license: MIT
 repository-code: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
 url: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
