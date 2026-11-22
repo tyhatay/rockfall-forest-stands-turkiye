@@ -7,6 +7,8 @@ abstract: >-
 authors:
   - family-names: "Hatay"
     given-names: "Taha Yasin"
+    email: "tyhatay@ktu.edu.tr"
+    affiliation: "Karadeniz Technical University, Trabzon, Turkiye"
 license: MIT
 repository-code: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
 url: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
