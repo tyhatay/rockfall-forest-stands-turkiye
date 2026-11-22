@@ -5,8 +5,8 @@ abstract: >-
   Code and the derived analysis frame for the occurrence estimate, its
   specificity tests and the simulation reported in the paper.
 authors:
-  - family-names: "[TO BE COMPLETED]"
-    given-names: "[TO BE COMPLETED]"
+  - family-names: "Hatay"
+    given-names: "Taha Yasin"
 license: MIT
 repository-code: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
 url: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
