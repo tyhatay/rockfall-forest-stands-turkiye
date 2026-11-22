@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or the analysis frame, please cite the paper."
+title: "Reproduction package for: Forest and recorded rockfall in Turkiye"
+abstract: >-
+  Code and the derived analysis frame for the occurrence estimate, its
+  specificity tests and the simulation reported in the paper.
+authors:
+  - family-names: "[TO BE COMPLETED]"
+    given-names: "[TO BE COMPLETED]"
+license: MIT
+repository-code: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
+url: "https://github.com/tyhatay/rockfall-forest-stands-turkiye"
